@@ -13,7 +13,7 @@
         "id": 2,
         "icon": "food",
         "name": "Правильне харчування",
-        "target": 10,
+        "target": 15,
         "days": [{"comment": "Круто!"}]
     }
 ]
